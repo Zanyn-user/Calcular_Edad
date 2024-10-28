@@ -14,7 +14,7 @@ public class Calcular_Edad {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         System.out.println("Ingrse la Edad");
-
+// cualquier cosa//
         int edad = entrada.nextInt();
 
         if (edad >= 0 && edad < 120) {
